@@ -1,0 +1,10 @@
+D:\我的程序\游戏\LLK\LLK\bin\Debug\LLK.exe.config
+D:\我的程序\游戏\LLK\LLK\bin\Debug\LLK.exe
+D:\我的程序\游戏\LLK\LLK\bin\Debug\LLK.pdb
+D:\我的程序\游戏\LLK\LLK\obj\Debug\LLK.csprojAssemblyReference.cache
+D:\我的程序\游戏\LLK\LLK\obj\Debug\LLK.Form1.resources
+D:\我的程序\游戏\LLK\LLK\obj\Debug\LLK.Properties.Resources.resources
+D:\我的程序\游戏\LLK\LLK\obj\Debug\LLK.csproj.GenerateResource.cache
+D:\我的程序\游戏\LLK\LLK\obj\Debug\LLK.csproj.CoreCompileInputs.cache
+D:\我的程序\游戏\LLK\LLK\obj\Debug\LLK.exe
+D:\我的程序\游戏\LLK\LLK\obj\Debug\LLK.pdb
